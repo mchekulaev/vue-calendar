@@ -1,0 +1,16 @@
+:root {
+  /* Colors */
+  --dp-color-primary: #4f46e5;
+  --dp-color-primary-hover: #4338ca;
+  --dp-color-primary-light: #eef2ff;
+  
+  --dp-color-text: #333;
+  --dp-color-text-muted: #666;
+  --dp-color-text-disabled: #ccc;
+  
+  --dp-color-bg: #fff;
+  --dp-color-bg-hover: #f5f5ff;
+  
+  --dp-color-border: #ddd;
+  --dp-color-border-hover: #999;
+}
